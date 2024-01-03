@@ -856,7 +856,7 @@ margin-left: 300px;
      
 }
 
-.hr-part{
+.hr-part:nth-child(1){
     width: 100%;
     height: auto;
     display: flex;
@@ -868,7 +868,7 @@ margin-left: 300px;
 }
 .hr-part:nth-child(2){
     width: 90%;
-    margin-top: 1%;
+    margin-top: 3%;
 
 }
 .container6 span{
